@@ -1,6 +1,6 @@
-# Solving Laplace's Equation Using the Relaxation Method
+# Solving Laplace's Equation Using the Relaxation Method &mdash; the Solution
 
-In this homework, we will use the relaxation method to solve Laplace's equation numerically. In the jupyter notebook `LaplaceEquation_hw.ipynb`, there are step-by-step guides that you can follow to work out a few examples in both 2D and 3D Cartesian geometry. Then you will be asked to write up your own codes to solve a few different problems.
+This is the solution to the homework problems described in <https://github.com/yuanyajie/physics421-laplace>. The solution can be found in the jupyter notebook `LaplaceEquation_hw_solution.ipynb`.
 
 ## How to Run the Jupyter Notebook
 
